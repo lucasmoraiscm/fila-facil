@@ -9,7 +9,11 @@ Aplicação: [[URL pública](https://lucasmoraiscm.github.io/fila-facil/)]
 
 Testes: [[URL pública de tests/index.html](https://lucasmoraiscm.github.io/fila-facil/tests/)]
 
-Tarefa e evidências: [[URL da issue](https://github.com/lucasmoraiscm/fila-facil/issues/1)]
+Tarefa: [[URL da issue](https://github.com/lucasmoraiscm/fila-facil/issues/1)]
+
+Evidências: [[URL das evidências](https://github.com/lucasmoraiscm/fila-facil/tree/main/evidencias)]
+
+Prompts: [[URL dos prompts](https://github.com/lucasmoraiscm/fila-facil/tree/main/prompts)]
 
 Como executar localmente: abrir index.html e tests/index.html.
 
